@@ -3,10 +3,14 @@
     "",
     "\\app_server",
     "\\app_server\\controllers",
+    "\\app_server\\database",
+    "\\app_server\\database\\models",
     "\\app_server\\routes",
     "\\app_server\\views",
-    "\\data"
+    "\\app_server\\views\\layouts",
+    "\\app_server\\views\\partials",
+    "\\public\\javascripts"
   ],
-  "SelectedNode": "\\data\\trips.json",
+  "SelectedNode": "\\.seedgooserc.js",
   "PreviewInSolutionExplorer": false
 }
