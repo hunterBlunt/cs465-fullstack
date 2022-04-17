@@ -1,3 +1,4 @@
+// .seedgooserc.js
 module.exports = {
 
     modelBaseDirectory: "app_api/database/models", // model directory name
