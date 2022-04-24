@@ -47,3 +47,4 @@ process.on('SIGTERM', function () {
 
 // BRING IN YOUR SCHEMAS & MODELS
 require('./models/travlr');
+require('./models/user');
